@@ -3,7 +3,3 @@ pandas
 numpy
 plotly
 scikit-learn
-pyhive
-thrift
-thrift-sasl
-sasl
